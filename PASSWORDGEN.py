@@ -3,7 +3,7 @@ import random
 def password_length():
     passlen = int(input("Enter your Desired Length for Your Password: "))
     return passlen
-
+#I KNOW ITS USELESS BUT ITS FANCY
 def password_type():
     print('Please Choose from below options:')
     print('1. Lowercase')
